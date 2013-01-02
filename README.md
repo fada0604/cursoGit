@@ -1,1 +1,0 @@
-Texto agregado al archivo README y esta listo para realizar el segundo Commit
